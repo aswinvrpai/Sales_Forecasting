@@ -1,12 +1,24 @@
-Astro Sales Forecasting MLOps Platform
-Overview
-A production-ready MLOps platform for sales forecasting that demonstrates modern machine learning engineering practices. Built on Astronomer (Apache Airflow), this project implements an end-to-end ML pipeline with ensemble modeling, comprehensive visualization, and real-time inference capabilities via Streamlit.
+# Example headings
 
-🚀 Key Features
-Automated ML Pipeline: End-to-end orchestration with Astronomer/Airflow
-Ensemble Modeling: Combines XGBoost, LightGBM, and Prophet for robust predictions
-Advanced Visualizations: Comprehensive model performance analysis and comparison
-Real-time Inference: Streamlit-based web UI for interactive predictions
-Experiment Tracking: MLflow integration for model versioning and metrics
-Distributed Storage: MinIO S3-compatible object storage for artifacts
-Containerized Deployment: Docker-based architecture for consistency
+## Sample Section
+
+## This'll be a _Helpful_ Section About the Greek Letter Θ!
+A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
+
+## This heading is not unique in the file
+
+TEXT 1
+
+## This heading is not unique in the file
+
+TEXT 2
+
+# Links to the example headings above
+
+Link to the sample section: [Link Text](#sample-section).
+
+Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-greek-letter-Θ).
+
+Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
+
+Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
